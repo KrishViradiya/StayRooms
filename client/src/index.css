@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+  background-color: black !important;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+.navbar-brand{
+  color: white !important;
+}
+.navbar-nav{
+  margin-left: auto !important;
+}
+
+h1{
+  font-size: 20px !important;
+}
+
+.smalling{
+  height:200px;
+  width:100% !important;
+  border-radius: 5px !important;
+}
+
+.btn{
+  background-color: black !important;
+  color: white !important;
+  box-shadow: none !important;
+  
+}
+
+
+
+.btn:hover{
+  transition: 0.15s ease-in;
+  background-color: white !important;
+  color: black !important;
+  
+}
+
+
+
+
+.bs{
+  margin-top: 20px !important;
+  border-radius: 5px !important;
+  padding: 20px !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+
+p{
+  /* font-weight: bold !important; */
+  font-size: 16px !important;
+}
+
+.c-image{
+  height: 400px !important;
+  /* width: 100%; */
+  object-fit: contain !important;
+  border-radius: 5px !important;
+}
+
+.p-btn{
+  margin-top: 5px !important;
+}
+
+input,select,.ant-picker{
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  border: 2px solid black !important;
+  width: 100% !important;
+  border-radius: 3px !important;
+  height: 35px !important;
+}
+
+.register{
+  font-size: 34px !important;
+}
+
+.link{
+  text-decoration: none !important;
+  color: blue !important;
+}
+
+
+.ant-picker input {
+  border: none !important;
+
+}
